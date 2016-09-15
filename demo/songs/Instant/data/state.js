@@ -31,7 +31,7 @@ export const STATE = {
     synth1: {
       label: 'Synth 1',
       gain: 0.7,
-      muted: false,
+      muted: true,
       hotkey: 'h'
     },
     synth2: {
