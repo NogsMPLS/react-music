@@ -23,6 +23,7 @@
   "repository": "https://github.com/FormidableLabs/react-music",
   "dependencies": {
     "audio-contour": "0.0.1",
+    "mousetrap": "^1.6.0",
     "note-parser": "^2.0.0",
     "tunajs": "^0.4.5",
     "uuid": "^2.0.2"

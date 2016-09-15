@@ -17,7 +17,7 @@ const Polysynth = (props) => (
       />
       <MoogFilter bufferSize={4096}>
         <Synth
-          type="square"
+          type="triangle"
           gain={0.15}
           transpose={1}
           steps={props.steps}
